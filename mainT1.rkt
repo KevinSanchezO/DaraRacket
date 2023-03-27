@@ -97,3 +97,11 @@
           (integer->char #x2461)
           );(string-append " "(number->string num))
       ))
+
+(provide create-pos)
+(provide crea-row)
+(provide draw-board)
+(provide return-matrix)
+(provide gna)
+(provide localize-pos)
+(provide matriz-auto)
